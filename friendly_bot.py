@@ -1,7 +1,7 @@
 import discord 
 import datetime
 
-token = 'MTE3MTQ0ODY3NzgzNjAwOTU5Mg.Go7me1.LypGkQgAIu6HA7T-XcCD9gPcCKZTI0xYzA5QbY'
+token = ''
 bot = discord.Bot(intents = discord.Intents.all())
 c = discord.commands.context.ApplicationContext
 
